@@ -17,7 +17,14 @@ Utilizing mobile phone camera scanning technology, the platform furnishes real-t
    ```sh
    git clone [https://github.com/AntiSkill12/ArgoTrack.git]
 
+# Tim Cloud Computing
 
+## Anggota Tim
+
+| Nama | ID Siswa | Kontak |
+|---|---|---|
+| Richard Khoo | C153D4KY0348 | [LinkedIn](https://www.linkedin.com/in/catkoo) | [GitHub](https://github.com/Catkoo) |
+| Muhammad Riafky Novalyansyah | c153d4ky0351 | [LinkedIn](www.linkedin.com/in/muhammad-riafky-novalyansyah) | [GitHub](https://github.com/AntiSkill12) |
 
 
 
