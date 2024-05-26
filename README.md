@@ -15,4 +15,4 @@ Utilizing mobile phone camera scanning technology, the platform furnishes real-t
 
 1. Clone repository ini:
    ```sh
-   git clone [https://github.com/username/argo-trank.git](https://github.com/AntiSkill12/ArgoTrack.git)
+   git clone [https://github.com/AntiSkill12/ArgoTrack.git]
